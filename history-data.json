@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-03T09:37:00.000000+05:30",
+    "server": "157.20.66.8",
+    "offset_ms": "1.111",
+    "delay_ms": "19.222",
+    "root_delay_ms": "4.333",
+    "root_dispersion_ms": "2.444",
+    "response_time_ms": "14.555",
+    "precision_ms": "0.002",
+    "status": "Online"
+  },
+  {
+    "timestamp": "2025-06-03T09:32:00.000000+05:30",
+    "server": "157.20.66.8",
+    "offset_ms": "0.000",
+    "delay_ms": "0.000",
+    "root_delay_ms": "0.000",
+    "root_dispersion_ms": "0.000",
+    "response_time_ms": "0.000",
+    "precision_ms": "0.000",
+    "status": "Error"
+  }
+]

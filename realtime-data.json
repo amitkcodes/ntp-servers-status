@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-03T09:42:00.000000+05:30",
+    "server": "157.20.66.8",
+    "offset_ms": "1.234",
+    "delay_ms": "20.567",
+    "root_delay_ms": "5.678",
+    "root_dispersion_ms": "3.456",
+    "response_time_ms": "15.789",
+    "precision_ms": "0.001",
+    "status": "Online"
+  },
+  {
+    "timestamp": "2025-06-03T09:42:00.000000+05:30",
+    "server": "time.nist.gov",
+    "offset_ms": "0.000",
+    "delay_ms": "0.000",
+    "root_delay_ms": "0.000",
+    "root_dispersion_ms": "0.000",
+    "response_time_ms": "0.000",
+    "precision_ms": "0.000",
+    "status": "Error"
+  }
+]
